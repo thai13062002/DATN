@@ -1,0 +1,8 @@
+onnxruntime==1.15.1
+pycocotools==2.0.7
+onnxsim==0.4.36
+onnxruntime-gpu==1.18.0
+gradio==4.31.5
+psutil==5.9.8
+huggingface-hub==0.23.2
+safetensors==0.4.3
